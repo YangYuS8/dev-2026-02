@@ -84,9 +84,12 @@ cd <你的仓库名>
 
 ## API 文档
 
-详细接口说明请看：
+为了更贴近真实开发，这次不在仓库里放长篇接口说明，而是直接查看线上 API 文档：
 
-- [API 文档](./docs/api.md)
+- 文档地址：`https://api.yangyus8.top/apidoc/`
+- API 基础地址：`https://api.yangyus8.top/api`
+
+你需要使用的接口会在文档中给出。
 
 ---
 
